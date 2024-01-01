@@ -1,0 +1,133 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    background: rgba(229, 84, 115, 0.10);
+}
+
+.greeting {
+    color: #272727;
+    font-size: 50px;
+    font-weight: 800;
+
+}
+
+.description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+
+}
+
+.btn-primary {
+    border-radius: 8px;
+    background: #E55473;
+    border: none;
+    padding: 10px 15px;
+    color: #FFF;
+    
+}
+
+.head-container {
+    display: flex;
+    align-items: center;
+}
+
+.div-des {
+    padding: 100px;
+
+}
+
+.image {
+    padding: 50px 100px 0px 50px;
+
+}
+
+.features {
+    text-align: center;
+}
+
+
+div>ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 50px 100px 50px 100px;
+}
+
+div li {
+    list-style: none;
+}
+
+.img1 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+
+.img2 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+}
+
+.img3 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+}
+
+div h4 {
+    text-decoration-line: underline;
+}
+
+.help-line {
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin: 50px 100px 50px 100px;
+    justify-content: center;
+}
+
+.offers {
+    display: flex;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    justify-content: space-around;
+}
+.pink{
+    color: #E55473;
+}
+.div1{
+    padding: 100px;
+}
+.div2{
+    margin: 0 50px 50px 20px;
+    padding-top: 50px;
+}
+.rectangles{
+    display: flex;
+    /* justify-content: space-between; */
+    gap: 10px;
+    margin: 20px 150px 50px 80px;
+ 
+}
+.instra-des{
+    text-align: center;
+}
+.subscribe{
+    text-align: center;
+    margin: 50px 100px;
+    
+}
+.footer{
+    background: #111010;
+}
+.footer-des{
+ color: #FFF;
+}
+.footer-title{
+    color: wheat;
+}
+.white{
+    color: white;
+}
+.footer-end{
+    text-align: center;
+}
